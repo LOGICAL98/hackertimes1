@@ -7,7 +7,7 @@
 - article one? layouts and widths (erick)
 - article 2 layouts and widths (thomas)
 - article 3 layouts and widths (Ben)
-- all fonts (frank)
+- all fonts + added hr + side by side (frank)
 - bonus 
 -- 3 extra articles (carlos)
 -- Add a footer (kevin)
