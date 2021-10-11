@@ -7,4 +7,4 @@ Carlos Palacios, Thomas Selden, Erick Falconi, Kevin Laux, Benjamin Franco, Aaro
 
 ## Screenshot:
 
-![ScreenShot](Screen Shot 2021-10-11 at 12.30.04 PM.png)
+
